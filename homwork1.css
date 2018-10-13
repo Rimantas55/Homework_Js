@@ -1,0 +1,46 @@
+body {
+	background-color: lightgrey;
+	margin: 0 5px 0 5px;
+}
+.first {
+	border-bottom: 5px solid orange;
+	background-color: black;
+	height: 100px;
+	text-align: left;
+	color: white;
+	padding: 0px;
+	padding-top: 20px;
+	padding-left: 10px;
+
+}
+ div .stulpeliai {
+	border-bottom: 5px solid orange;
+	background-color: black;
+	text-align: center;
+	color: white;
+	padding: 10px;
+	margin: 5px 10px 0px 10px;
+	max-height: : 100%;
+	/*negaliu pasiekti plocio*/
+	/*Reikejo daryti per div*/
+}
+
+button  {
+	width: 95%;
+	padding: 10px;
+	margin: 5px;
+}
+.row .skaicius {
+	text-align: center;
+}
+.info .buttons {
+	widows: 95%;
+	padding: 10px;
+	margin: 0px;
+
+}
+/*negaliu pasiekti skaiciaus*/
+.row #nomer {
+	font-size: 50px;
+	color: orange;
+}
